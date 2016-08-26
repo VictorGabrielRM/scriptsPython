@@ -1,7 +1,7 @@
 from pysimplesoap.client import SoapClient
 
 
-location = "http://10.2.19.18/otrs/nph-genericinterface.pl/Webservice/integracaocaixagsc"
+location = "http://10.2.19.18/otrs/nph-genericinterface.pl/Webservice/name_webservice"
 namespace = "namespace"
 operation = "operation"
 

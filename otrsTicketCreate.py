@@ -2,8 +2,8 @@ from pysimplesoap.client import SoapClient
 
 
 location = "http://10.2.19.18/otrs/nph-genericinterface.pl/Webservice/integracaocaixagsc"
-namespace = "INTEGRACAOCAIXAGSC"
-operation = "CriarchamadoGSC"
+namespace = "namespace"
+operation = "operation"
 
 ticket_type = "INCIDENTE"
 ticket_title = "Criando chamado com python"
